@@ -14,6 +14,30 @@ This project demonstrates secure identity and access management in Azure using M
 See `architecture/iam-rbac-diagram.png`
 
 ## Project Structure
+
+📂 Project Structure
+
+azure-iam-rbac-lab/
+│
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   ├── vm.tf
+│   ├── storage.tf
+│   ├── provider.tf
+│   ├── versions.tf
+│   └── terraform.tfvars.example
+│
+├── scripts/
+│   ├── onboarding.ps1
+│   ├── offboarding.ps1
+│   └── assign-rbac.ps1
+│
+├── docs/
+├── screenshots/
+└── README.md
+
 - `terraform/` Infrastructure deployment
 - `scripts/` Onboarding, offboarding, and RBAC helper scripts
 - `docs/` Project documentation
