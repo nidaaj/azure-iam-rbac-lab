@@ -1,0 +1,5 @@
+admin_password               = "ReplaceWithStrongPassword123!"
+hr_group_object_id           = "replace-with-hr-group-object-id"
+finance_group_object_id      = "replace-with-finance-group-object-id"
+it_support_group_object_id   = "replace-with-it-support-group-object-id"
+cloud_admins_group_object_id = "replace-with-cloud-admins-group-object-id"
