@@ -64,3 +64,9 @@ See `docs/troubleshooting.md`
 - Azure IAM design
 - PowerShell scripting
 - Access validation and documentation
+
+# Future Improvements
+Integrate Azure Key Vault for secret management
+Replace password authentication with SSH / managed identities
+Add CI/CD pipeline (GitHub Actions)
+Implement monitoring alerts
